@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="git://github.com/">
+
+  <project path="test" name="Taketo1119/test" />
+ 
+ </manifest>

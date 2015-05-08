@@ -7,6 +7,6 @@
  <default revision="master"
            remote="github" />
 
-  <project path="test" name="Taketo1119/test" remote="github"" />
+  <project path="test" name="Taketo1119/test" remote="github" />
  
  </manifest>

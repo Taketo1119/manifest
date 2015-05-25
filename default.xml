@@ -7,9 +7,9 @@
   <default revision="master"
            remote="github" />
 
-  <project path="android/test/exlib1" name="Taketo1119/test" remote="github" />
+  <project path="android/exxx/exlib1" name="Taketo1119/test" remote="github" />
   <project path="test2" name="Taketo1119/test2" remote="github" />
   <project path="android" name="Taketo1119/android" remote="github" />
-  <project path="android/test" name="Taketo1119/YYY" remote="github" />
+  <project path="android/exxx" name="Taketo1119/YYY" remote="github" />
 
 </manifest>

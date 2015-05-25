@@ -9,6 +9,7 @@
 
   <project path="test" name="Taketo1119/test" remote="github" />
   <project path="test2" name="Taketo1119/test2" remote="github" />
-  <project path="test2" name="Taketo1119/android" remote="github" />
-
+  <project path="android" name="Taketo1119/android" remote="github" />
+  <project path="android/test1" name="Taketo1119/android/test1" remote="github"/>
+  <project path="android/test2/test3" name="Taketo1119/android/test2/test3" remote="github"/>
 </manifest>
